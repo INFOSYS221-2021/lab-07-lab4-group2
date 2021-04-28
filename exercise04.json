@@ -1,0 +1,25 @@
+{
+   "firstName":"Snow",
+   "lastName":"White",
+   "isFiction":true,
+   "age":18,
+   "address":{
+      "streetAddress":"7 Fairytale Lane",
+      "city":"Fairytale Forest"
+   },
+   "phoneNumbers":[
+      {
+         "type":"home",
+         "number":"01 123-4567"
+      },
+      {
+         "type":"office",
+         "number":"01 555-4567"
+      },
+      {
+         "type":"mobile",
+         "number":"028 456-7890"
+      }
+   ],
+   "spouse":null
+} 
