@@ -1,2 +1,2 @@
 # Lab-07
-Write your names here.
+Bao Li, bli621
